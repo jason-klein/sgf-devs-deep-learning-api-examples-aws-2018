@@ -2,23 +2,34 @@
 
 ### Summary
 
-This discussion of available Deep Learning APIs from various cloud services
-included demonstrations of numerous AWS deep learning services
+This discussion of available Deep Learning APIs from various cloud
+services included demonstrations of numerous AWS deep learning services
 through the AWS console and the enclosed Python Code Samples.
 
 ![Event Info](event.jpg)
 
 ### Introduction
 
-Deep Learning is more accessible than ever, but most developers have not had an opportunity to use this technology first-hand. *Jason Klein* with *Logic Forte* will cover practical examples to use Deep Learning services and models that you can integrate into your applications.
+Deep Learning is more accessible than ever, but most developers have not
+had an opportunity to use this technology first-hand. **Jason Klein**
+with **Logic Forte** will cover practical examples to use Deep Learning
+services and models that you can integrate into your applications.
 
-Jason will demonstrate how to use existing cloud APIs that provide access to established Deep Learning models (e.g. analyze/identify photos and videos, language processing and sentiment analysis, build chatbots that respond to text or audio questions, convert text to lifelike speech, convert speech or voicemail to text, and translate text to/from any language).
+Jason demonstrates how to use existing cloud APIs to access existing
+Deep Learning models (e.g. analyze/identify photos and videos,
+language processing and sentiment analysis, build chatbots that respond
+to text or audio questions, convert text to lifelike speech, convert
+speech or voicemail to text, and translate text to/from any language).
 
-The API examples will be specific to AWS, but Google, IBM, and Azure provide similar APIs. Jason will publish code examples to GitHub (Jason-Klein) and do a LIVE walk-through of each example. The group can deep dive into specific examples during Q&A and he will stick around to help you get code working locally if you’d like. _If there is enough interest, he can host a followup meeting to deep dive into building and training *custom* Deep Learning models using Keras, TensorFlow and several other Python tools!
+Jason has published the code examples that were shared during his
+presentation. Although the API examples are specific to AWS, Google,
+Microsoft, and IBM provide similar APIs. Refer to the table below for
+links to equivalent Deep Learning services from the other providers.
 
 ### Presentation
 
-We discussed the following topics. View the [Presentation Slides](presentation-slides.pdf) for more details.
+We discussed the following topics.
+View the [Presentation Slides](presentation-slides.pdf) for more details.
 
 * Welcome
 * Overview
@@ -31,9 +42,15 @@ We discussed the following topics. View the [Presentation Slides](presentation-s
 
 ### Services by Cloud Provider
 
-Although we explored Deep Learning Models provided as services from Amazon Web Services (AWS), similar services are available through the various cloud hosting providers.
+Although we explored Deep Learning Models provided as services from
+Amazon Web Services (AWS), similar services are available through the
+various cloud hosting providers.
 
-I also included several services only available on other platforms, such as Voice Verification, Spell Check, and Time Correlation. If a provider does not already offer a pre-trained Deep Learning model that meets your needs, explore the Machine Learning services provided by each platform.
+I also included several services only available on other platforms,
+such as Voice Verification, Spell Check, and Time Correlation. If a
+provider does not already offer a pre-trained Deep Learning model that
+meets your needs, explore the Machine Learning services provided by
+each platform.
 
 Service | Amazon | Google | Microsoft | IBM
 ------- | ------ | ------ | --------- | ---
@@ -53,7 +70,8 @@ Machine Learning | [SageMaker](https://aws.amazon.com/sagemaker/) | [AutoML](htt
 
 ### Event Details
 
-Presented by [Jason Klein](https://jrklein.com/) ([Logic Forte](https://logicforte.com/))
+Presented by [Jason Klein](https://jrklein.com/)
+([Logic Forte](https://logicforte.com/))
 to [Springfield Web Developers](http://sgfwebdevs.com/)
 on Wednesday October 3rd, 2018
 at [The eFactory](https://efactory.missouristate.edu/) in Springfield Missouri
@@ -61,5 +79,4 @@ at [The eFactory](https://efactory.missouristate.edu/) in Springfield Missouri
 ### Reference
 
 * Event Page (https://www.meetup.com/SGF-Web-Devs/events/251077263/)
-
 * Event Recording (https://www.youtube.com/c/sgfwebdevs/videos) TODO
