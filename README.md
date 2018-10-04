@@ -1,12 +1,14 @@
 # Practical Deep Learning for Developers
 
-[Springfield Web Developers](http://sgfwebdevs.com/) \
-Wednesday October 3rd, 2018 \
-[The eFactory](https://efactory.missouristate.edu/), Springfield Missouri \
-[Jason Klein](https://jrklein.com/), Chief Innovation Officer, [Logic Forte](https://logicforte.com/)
+### Summary
 
+This discussion of available Deep Learning APIs from various cloud services
+included demonstrations of numerous AWS deep learning services
+through the AWS console and the enclosed Python Code Samples.
 
 ![Event Info](event.jpg)
+
+### Introduction
 
 Deep Learning is more accessible than ever, but most developers have not had an opportunity to use this technology first-hand. *Jason Klein* with *Logic Forte* will cover practical examples to use Deep Learning services and models that you can integrate into your applications.
 
@@ -48,6 +50,13 @@ Time Series Correlation | N/A | [Inference](https://cloud.google.com/inference/)
 Machine Learning | [SageMaker](https://aws.amazon.com/sagemaker/) | [AutoML](https://cloud.google.com/automl/) | [Machine Learning](https://azure.microsoft.com/en-us/overview/machine-learning/) | [Machine Learning](https://www.ibm.com/cloud/machine-learning)
 
 *Updated 10/04/2018*
+
+### Event Details
+
+Presented by [Jason Klein](https://jrklein.com/) ([Logic Forte](https://logicforte.com/))
+to [Springfield Web Developers](http://sgfwebdevs.com/)
+on Wednesday October 3rd, 2018
+at [The eFactory](https://efactory.missouristate.edu/) in Springfield Missouri
 
 ### Reference
 
