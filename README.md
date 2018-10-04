@@ -79,4 +79,4 @@ at [The eFactory](https://efactory.missouristate.edu/) in Springfield Missouri
 ### Reference
 
 * Event Page (https://www.meetup.com/SGF-Web-Devs/events/251077263/)
-* Event Recording (https://www.youtube.com/c/sgfwebdevs/videos) TODO
+* Event Recording (https://www.youtube.com/watch?v=SwkFlD_Zb3U)
